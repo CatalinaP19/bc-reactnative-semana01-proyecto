@@ -1,7 +1,7 @@
 import React from 'react';
 import { ScrollView, View, Text, StyleSheet } from 'react-native';
 import ProfileSection from './components/Profilesection';
-import SkillCard from './components/skillcard';
+import SkillCard from './components/Skillcard';
 import ProjectCard from './components/ProjectCard';
 
 export default function App() {
